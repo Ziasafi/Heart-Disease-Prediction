@@ -10,6 +10,7 @@ Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 How to run the Jupyter notebook?
 
 1: Install requirements: Install requirements.txt
+
 2: Run Jupyter notebook(Heart_disease_prediction_by_Zia.ipynb)
 
 
