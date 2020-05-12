@@ -1,0 +1,5 @@
+Python = 3.7.3
+Pandas = '1.0.1'
+Seaborn = '0.10.0'
+Matplotlib = '0.10.0'
+
