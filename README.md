@@ -5,7 +5,7 @@ The objective of this project is to predict heart disease using machine learning
 I've used above mentioned Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
 
-Dataset Introduction
+# Dataset Introduction
 
 
 In this project, A model for classification of given dataset (heart.csv) has been proposed. This dataset
