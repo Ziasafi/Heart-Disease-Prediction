@@ -18,6 +18,12 @@ completion, discusses model trials, comparison of their performance and the reas
 model selection
 
 
+# Pre-Analysis
+1. Target variable had class labels instead of continuous data hence we decided to treat this as
+a classification
+2. None of the observation had any missing value, so data imputation was not implemented
+3. Class distribution was in original data was fairly balanced. There seems to be no considerable
+over-representation or underrepresentation of any class
 
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
