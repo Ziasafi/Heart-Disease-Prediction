@@ -28,6 +28,11 @@ over-representation or underrepresentation of any class
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
+
+The choice of model was logistic regression with accuracy of 86.34% and the accuracy of Support vector machine
+was 83.9%. Logistic regression performed well on heart disease dataset.
+
+
 How to run the Jupyter notebook?
 
 1: Install requirements: Install requirements.txt
