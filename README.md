@@ -35,9 +35,13 @@ was 83.9%. Logistic regression performed well on heart disease dataset.
 
 How to run the Jupyter notebook?
 
-1: Install requirements: Install requirements.txt
+**How to set it up?**
 
-2: Run Jupyter notebook(Heart_disease_prediction_by_Zia.ipynb)
+pip install -r requirements.txt
+
+**How to run the code?**
+
+Run Jupyter notebook
 
 
 
